@@ -1,1 +1,1 @@
-# BetterDiscord
+[Image](Resources/logo.png)
