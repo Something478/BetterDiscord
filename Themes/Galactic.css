@@ -347,7 +347,7 @@ Enjoy!
   fill: transparent;
 }
 .wrapper__6e9f8[data-list-item-id="guildsnav___home"] .childWrapper__6e9f8 {
-  background: var(--purple-black-home-icon) center/cover no-repeat !important;
+  background: var(--home-icon) center/cover no-repeat !important;
   min-width: 50px;
   min-height: 50px;
 }
