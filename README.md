@@ -9,4 +9,4 @@ Vibe\
 Galactic\
 [![Image](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://drive.proton.me/urls/VGT14EX84W#CWeCgXrbuk02)\
 Neon\
-[![Image](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://drive.proton.me/urls/6BGP5DRK74#wlavKxebbkJ5)
+[![Image](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://drive.proton.me/urls/EQYRAYAZ5W#Z7aS94FSCPP-)
