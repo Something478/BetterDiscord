@@ -5,7 +5,7 @@ Free BetterDiscord & Vencord themes!
 Currently available themes
 -------------------------------------
 Vibe\
-[![Image](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://drive.proton.me/urls/032FD92J9C#g5QLMP60Lsrx)\
+[![Image](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://drive.proton.me/urls/64YZ1CM8T8#1-x592R7RUci)\
 Galactic\
 [![Image](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://drive.proton.me/urls/DGFVASWGT0#PPUGHujsTodp)\
 Neon\
