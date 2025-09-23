@@ -1,4 +1,4 @@
-![Image](Resources/logo.png)
+![Image](Resources/Image.png)
 # Free BetterDiscord & Vencord themes!
 
 Currently available themes
