@@ -1,6 +1,6 @@
 ![Image](Resources/logo.png)
 # Free BetterDiscord & Vencord themes!
---------------------------------------
+
 Currently available themes
 -------------------------------------
 **Vibe**\
